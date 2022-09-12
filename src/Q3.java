@@ -9,6 +9,7 @@ public class Q3 {
        System.out.println("Enter Divisor:");
        
        int divisor=sc.nextInt();
+       sc.close();
        if (divisor==0){
         System.out.println("Divide by Zero Not Permissible");
          return;
@@ -18,7 +19,7 @@ public class Q3 {
        System.out.println("Quotient = "+ quotient);
        
        System.out.println("Remainder = "+remainder);
-
+       
 
 
     }

@@ -13,6 +13,7 @@ public class Q2 {
 
    
     System.out.println("Multiplication = "+ (first*second));
+    sc.close();
 
     }
     

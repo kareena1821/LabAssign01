@@ -15,7 +15,7 @@ public class Q4 {
         System.out.println("First Number= "+ first);
         System.out.println("Second Number= "+second);
         
-        
+       sc.close(); 
 
     }
     

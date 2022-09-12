@@ -11,6 +11,7 @@ public class Q1 {
         long subtraction = first-second;
         System.out.println("Addition = "+ addition);
         System.out.println("Subtraction = "+ subtraction);
+        sc.close();
 
     }
     
